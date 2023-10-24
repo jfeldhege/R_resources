@@ -10,6 +10,7 @@
 - [Tidy Modeling with R](https://www.tmwr.org/)
 - [R Packages](https://r-pkgs.org/)
 - [Advanced R](http://adv-r.had.co.nz/Introduction.html)
+- [R Workflow for Reproducible Data Analysis and Reporting](https://hbiostat.org/rflow/)
 
 ## Blogs
 - [RWeekly](https://rweekly.org/)
@@ -35,3 +36,4 @@
 ## Tutorials I found useful
 - [A worked {targets} example for ecologists](https://targets-ecology.netlify.app/)
 - [Getting started with unit testing in R](https://www.pipinghotdata.com/posts/2021-11-23-getting-started-with-unit-testing-in-r/)
+- [Tutorials and scale and theme finder for {ggplot2}](https://ggplot2tor.com/)
