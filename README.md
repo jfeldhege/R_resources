@@ -22,7 +22,8 @@
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
 
 ## Package vignettes I come back to regularly
-- [Regular expressions in {stringr} package](https://stringr.tidyverse.org/articles/regular-expressions.html)
+- [Posit Cheatsheets](https://rstudio.github.io/cheatsheets/)
+- [Regular expressions in {stringr} package](https://rstudio.github.io/cheatsheets/html/strings.html)
 - [Changing and restoring state with {withr}](https://withr.r-lib.org/articles/changing-and-restoring-state.html)
   
 ## Help pages I regularly visit
